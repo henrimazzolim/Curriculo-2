@@ -1,2 +1,2 @@
-# Curr-culo-2
+# Curriculo-2
 Reformulação de currículo em HTML e CSS 
